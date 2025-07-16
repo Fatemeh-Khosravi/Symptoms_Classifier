@@ -74,8 +74,8 @@ selected_symptoms = st.multiselect(
 )
 
 if st.button("Predict Disease", type="primary"):
-    if not selected_symptoms:
-        st.warning("⚠️ Please select at least one symptom.")
+    if len(selected_symptoms) < 5:
+        st.warning("⚠️ Please select at least 5 symptoms.")
     else:
         # Simulate prediction for demonstration
         import random
