@@ -40,21 +40,6 @@ An intelligent machine learning system that predicts diseases based on patient s
 - **And 25+ more conditions**
 
 
-## 📁 Project Structure
-
-```
-symptoms-classifier/
-├── symptoms-classifier-main/
-│   ├── app.py                 # Streamlit web application
-│   ├── model.pkl             # Trained ML model
-│   ├── vectorizer.pkl        # TF-IDF vectorizer
-│   └── requirements.txt      # Python dependencies
-├── Training.csv              # Training dataset (4,922 samples)
-├── Testing.csv               # Test dataset (42 samples)
-├── model_training.ipynb      # Jupyter notebook for model development
-├── performance_analysis.py   # Model evaluation scripts
-└── README.md                 # This file
-```
 
 ## 🔬 Technical Implementation
 
