@@ -39,31 +39,6 @@ An intelligent machine learning system that predicts diseases based on patient s
 - **Dermatological**: Fungal Infection, Acne, Psoriasis
 - **And 25+ more conditions**
 
-## 🚀 Quick Start
-
-### Prerequisites
-```bash
-pip install streamlit pandas numpy scikit-learn joblib plotly
-```
-
-### Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/Fatemeh-Khosravi/symptoms-classifier.git
-cd symptoms-classifier
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the application:
-```bash
-streamlit run symptoms-classifier-main/app.py
-```
-
-4. Open your browser and navigate to `http://localhost:8501`
 
 ## 📁 Project Structure
 
@@ -140,57 +115,10 @@ symptoms-classifier/
 - [ ] **Patient History**: Track symptom patterns over time
 - [ ] **Doctor Consultation**: Direct connection to healthcare providers
 
-## 🛠️ Skills & Technologies
 
-### Programming Languages
-- **Python** (Primary)
-- **SQL**
-- **HTML/CSS/JavaScript**
 
-### Machine Learning & Data Science
-- **scikit-learn**
-- **pandas & numpy**
-- **matplotlib & seaborn**
-- **Jupyter Notebooks**
-- **Feature Engineering**
-- **Model Evaluation**
 
-### Web Development
-- **Streamlit**
-- **Flask/Django**
-- **RESTful APIs**
-- **Git & GitHub**
 
-### Tools & Platforms
-- **Google Colab**
-- **VS Code**
-- **Docker**
-- **AWS/Cloud Platforms**
-
-## 📚 Education & Certifications
-
-- **Degree**: [Your Degree]
-- **Institution**: [Your University]
-- **Focus**: Machine Learning, Data Science, Computer Science
-
-## 🤝 Contact Information
-
-- **Email**: fatemeh.khosravi@example.com
-- **LinkedIn**: [Fatemeh Khosravi](https://linkedin.com/in/fatemeh-khosravi)
-- **GitHub**: [@Fatemeh-Khosravi](https://github.com/Fatemeh-Khosravi)
-- **Portfolio**: [Your Portfolio Website]
-
-## 🏆 Awards & Recognition
-
-- [Any awards, hackathons, or recognitions]
-- [Academic achievements]
-- [Professional certifications]
-
-## 📄 Resume
-
-[Download my resume](link-to-resume.pdf)
-
----
 
 ⭐ **Star this repository if you find it helpful!**
 
