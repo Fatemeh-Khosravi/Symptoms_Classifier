@@ -1,8 +1,4 @@
-# 🩺 Fatemeh Khosravi - Machine Learning Portfolio
 
-## 👋 About Me
-
-I'm a passionate Machine Learning Engineer and Data Scientist with expertise in healthcare AI applications. I specialize in developing intelligent systems that solve real-world problems using cutting-edge machine learning techniques.
 
 ## 🎯 Featured Project: AI Medical Symptoms Classifier
 
